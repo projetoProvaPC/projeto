@@ -20,3 +20,4 @@ Esses são todos os requisitos que pensarmos no projeto.
 * Limites de tempo para resolver a prova
 * Gerar estatísticas da turma e de questões
 * Bloquear acesso a internet e outras formas de colar
+* Diferentes formas de calcular a nota
