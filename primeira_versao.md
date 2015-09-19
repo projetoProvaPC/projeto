@@ -1,4 +1,8 @@
+# Primeira Versão
 
+Descrição da primeira versão do programa que deve ser apresentada na SNCT.
+
+## Requisitos funcionais
 
 * Fazer a prova no computador
 * Corrigir as provas automaticamente e dar o resultado imediatamente
@@ -7,7 +11,7 @@
   * Verdadeiro ou falso (uma ou várias sentenças)
 * Permitir diferentes formas de calcular a nota
 
-##Não funcionais
+##Requisitos não funcionais
 
 * Identificar os alunos com segurança
 * Facilidade de usar (criar as provas e respondê-las)
