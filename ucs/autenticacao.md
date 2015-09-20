@@ -32,7 +32,7 @@ Este caso de uso descreve como o professor vai se autenticar: identificar-se par
 * O campo senha deve esconder o caracteres da senha
 * O formulário é enviado através de um botão com o rótulo "Autenticar"
 
-## Mensagem de erro na Senha, SIAP ou falta de cadastro
+### Mensagem de erro na Senha, SIAP ou falta de cadastro
 
 * A mensagem deve estar antes do formulário
 * A mensagem deve estar em vermelho e negrito
@@ -40,3 +40,9 @@ Este caso de uso descreve como o professor vai se autenticar: identificar-se par
 
 > A senha e/ou número SIAP estão incorretos ou não foram cadastrados.
 > Para cadastrar contate um administrador do sistema pelo email <email@dominio>.
+
+## Diagrama de sequência
+
+Esse diagrama não está perfeito, mas acho que dá para entender.
+
+![diagrama de sequencia](sequencia/autenticacao.png)
